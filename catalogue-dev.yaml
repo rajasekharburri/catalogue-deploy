@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/daws-86s/catalogue-deploy.git
+    repoURL: https://github.com/rajasekharburri/catalogue-deploy.git
     targetRevision: main # Specifies the branch, tag, or commit to sync to
     path: .
     helm:
